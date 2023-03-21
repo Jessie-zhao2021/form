@@ -5,7 +5,7 @@
 body {
   margin:0;
   padding:50px;
-  text-align: center;
+  /* text-align: center; */
 }
 form {
   display: inline-block;
@@ -20,7 +20,7 @@ input[type="text"], input[type="email"] {
   display: block;
 }
 
-input[type="checkbox"] {
+input[type="checkbox"], input[type="radio"] {
   margin-right: 0.75rem;
 }
 
